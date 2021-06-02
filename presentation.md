@@ -40,12 +40,11 @@ Logo en rond Hélène laxenaire et Institut agro
     * Licences libre de droits
 * Petit quiz
 * Où les trouver ?
-* Questions ?
+* Réponse à vos questions ?
 
 ---
 
 ## Prise de contact
-
 
 * une chose que je sais déjà sur le droit d'auteur
 * une question que je me pose
@@ -62,7 +61,7 @@ Droits de l'auteur d'une oeuvre originale de l'esprit
 * sur l'oeuvre, sa diffusion et sa représentation
 * transmission aux héritiers
 Note :  terminées ou non
-* fixées sur un support ou non
+* fixées sur un support ou non (diff. copyright, ex. chanson)
 * ne s'applique pas aux idées (ex. souris anthropomorphe)
 * ne s'applique pas aux formules mathématiques
 
@@ -82,12 +81,13 @@ Note : pas d'enregistrement nécessaire, même si non divulgué
 Droit moral
 Droit patrimonial
 Exceptions au droit d'auteur
+Différence entre droit d'auteur et copyright
 
 ----
 
 ### Droit moral 
 L'auteur 
-photo statue
+photo statue en fond
 
 ----
 
@@ -115,7 +115,7 @@ Note:
 
 ### Droit patrimonial
 les revenus
-photo argent
+photo argent en fond
 
 ----
 
@@ -142,13 +142,36 @@ droit de représentation
 * harmonisé par la convention de Berne
 
 
-----
-### Quiz
+---
+
+## Quiz
 
 directpoll
 
-### Diapo 2.1
-![](https://www.lamerguez.com/presentations_GitPich/presentation-UE3_curation/Google_outils.png)
+---
+
+## Quels documents ai-je le droit d'utiliser ?
+* Ceux que j'ai produit
+* Licences Creatives Commons
+* Licences libre de droits
+
+----
+
+## Quels documents ai-je le droit d'utiliser ?
+* Ceux que j'ai produit
+Note: et je suis super bien protégé
+
+----
+
+## Quels documents ai-je le droit d'utiliser ?
+* Licences Creatives Commons
+* 6 contrats "clé en main" pour donner plus de droit sur les oeuvres
+* traduits en droit français
+Note:
+
+### Licences CC
+* attribution
+Note : toutes les licences compatibles l'ont, pourquoi ?
 
 
 
