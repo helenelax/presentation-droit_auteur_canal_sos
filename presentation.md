@@ -3,6 +3,7 @@ title: Canal SOS - droit d'auteur
 slideOptions:
   transition: fade
   theme: white
+tags: DroitAuteur, 2020
 ---
 <!-- autres style : Black (default), White, League, Sky, Beige Simple, Serif, Blood, Night, Moon, Solarized -->
 <!-- transitions : none, fade, slide, convex, zoom -->
