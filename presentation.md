@@ -154,6 +154,7 @@ directpoll
 * Ceux que j'ai produit
 * Licences Creatives Commons
 * Licences libre de droits
+* Domaine public
 
 ----
 
@@ -169,9 +170,33 @@ Note: et je suis super bien protégé
 * traduits en droit français
 Note:
 
+----
+
 ### Licences CC
-* attribution
-Note : toutes les licences compatibles l'ont, pourquoi ?
+* attribution (BY)  
+Note : toutes les licences compatibles l'ont, 
+Je pose la question : pourquoi ?
+
+----
+
+### Licences CC
+* Pas de modification (ND)
+*Non derivative*
+
+----
+
+### Licences CC
+* Pas d'utlisation commerciale (NC)
+Note : pas de différence lucratif/commercial
+
+----
+
+### Licences CC
+* Partage avec la même licence pour l'oeuvre modifiée (SA)
+Note : je fais les 6 licences en montrant les acrtons des licences
+
+----
+### Licence
 
 
 
